@@ -1,0 +1,22 @@
+.paragraph {
+  /* Введите название фильма, сериала или мультфильма для поиска и добавления в избранное. */
+
+  width: 588px;
+  height: 48px;
+
+  /* Body/Regular */
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  text-align: left;
+  line-height: 24px;
+  /* or 150% */
+
+  /* Grey/300 */
+  color: #8e95a9;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
