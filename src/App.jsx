@@ -5,6 +5,7 @@ import './App.css'
 
 function App() {
 
+
   return (
     <>
       <Title text="Поиск" />
@@ -13,5 +14,6 @@ function App() {
     </>
   )
 }
+
 
 export default App
